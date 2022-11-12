@@ -1,0 +1,877 @@
+﻿++Solution 'RevitLogger' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:RevitLogger.sln
+++Revit.IFC.Common
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:
+i:{00000000-0000-0000-0000-000000000000}:Revit.IFC.Common
+++Properties
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\properties\
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\properties\
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\properties\
+++AssemblyInfo.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\properties\assemblyinfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\properties\assemblyinfo.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\properties\assemblyinfo.cs
+++References
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:
+++RevitAPI
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:
+++RevitAPIIFC
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:
+++System
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:
+++System.Web.Extensions
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:
+++System.XML
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:
+++Enums
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\enums\
+++CommonEnum.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\enums\commonenum.cs
+++IFC2xEntityType.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\enums\ifc2xentitytype.cs
+++IFC4EntityType.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\enums\ifc4entitytype.cs
+++IFCEntityType.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\enums\ifcentitytype.cs
+++IFCKnownMVDAndER.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\enums\ifcknownmvdander.cs
+++Extension
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\extension\
+++IFCAddress.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\extension\ifcaddress.cs
+++IFCAddressItem.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\extension\ifcaddressitem.cs
+++IFCClassification.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\extension\ifcclassification.cs
+++IFCClassificationMgr.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\extension\ifcclassificationmgr.cs
+++IFCFileHeader.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\extension\ifcfileheader.cs
+++IFCFileHeaderItem.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\extension\ifcfileheaderitem.cs
+++Utility
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\
+++COBieCompanyInfo.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\cobiecompanyinfo.cs
+++COBieProjectInfo.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\cobieprojectinfo.cs
+++DirectoryUtil.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\directoryutil.cs
+++IFCAnyHandleUtil.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\ifcanyhandleutil.cs
+++IFCCompatibilityType.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\ifccompatibilitytype.cs
+++IFCFuzzyXYZ.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\ifcfuzzyxyz.cs
+++IfcSchemaEntityNode.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\ifcschemaentitynode.cs
+++IfcSchemaEntityTree.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\ifcschemaentitytree.cs
+++MathUtil.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\mathutil.cs
+++OptionsUtil.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\optionsutil.cs
+++ProcessIFCXMLSchema.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\processifcxmlschema.cs
+++RevitStatusBar.cs
+i:{032ea4dc-181f-4453-9f93-e08de1c07d95}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.common\utility\revitstatusbar.cs
+++RevitLogger
+i:{00000000-0000-0000-0000-000000000000}:RevitLogger
+++Connected Services
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\connected services\
+++ExtensibleStorage
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\extensiblestorage\
+++ExternalEvents
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\externalevents\
+++Helpers
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\
+++Logger
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\logger\
+++Logger.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\logger\logger.cs
+++Resources
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\resources\
+++RibbonButtonClasses
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ribbonbuttonclasses\
+++Settings
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\settings\
+++SQLite Helper
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\sqlite helper\
+++UI
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ui\
+++App.config
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\app.config
+++Application.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\application.cs
+++packages.config
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\packages.config
+++RevitLogger.addin
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\revitlogger.addin
+++Resources.resx
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\properties\resources.resx
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\properties\resources.resx
+++AdWindows
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++EntityFramework
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++EntityFramework.SqlServer
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++Microsoft.CSharp
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++MoreLinq
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++Newtonsoft.Json
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:
+++PresentationCore
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++PresentationFramework
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++Remotion.Linq
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++RevitAPIUI
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.ComponentModel.DataAnnotations
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Core
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Data
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Data.DataSetExtensions
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Data.SQLite
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Data.SQLite.EF6
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Data.SQLite.Linq
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Drawing
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Interactive.Async
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Net.Http
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Numerics
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.ValueTuple
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Windows.Forms
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Xaml
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Xml
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++System.Xml.Linq
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++WindowsBase
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:
+++ExtensibleStorage.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\extensiblestorage\extensiblestorage.cs
+++RevitLoggerCommand.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\externalevents\revitloggercommand.cs
+++RevitReaderCommand.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\externalevents\revitreadercommand.cs
+++ActiveDocumentHandler.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\activedocumenthandler.cs
+++BindableMethod.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\bindablemethod.cs
+++CommandBase.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\commandbase.cs
+++EventArgsExtension.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\eventargsextension.cs
+++EventSenderExtension.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\eventsenderextension.cs
+++ExternalEventHandler.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\externaleventhandler.cs
+++ExternalEventInfo.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\externaleventinfo.cs
+++Globals.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\globals.cs
+++HelperRevitUI.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\helperrevitui.cs
+++JtWindowHandle.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\jtwindowhandle.cs
+++LoggerStructureJSONL.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\loggerstructurejsonl.cs
+++MethodBindingExtension.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\methodbindingextension.cs
+++PropertyPathHelpers.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\propertypathhelpers.cs
+++ViewModelBase.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\viewmodelbase.cs
+++WindowHandler.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\helpers\windowhandler.cs
+++AppOff.png
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\resources\appoff.png
+++AppOn.png
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\resources\appon.png
+++NotesOff.png
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\resources\notesoff.png
+++NotesOn.png
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\resources\noteson.png
+++Piles.png
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\resources\piles.png
+++SelectOff.png
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\resources\selectoff.png
+++SelectOn.png
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\resources\selecton.png
+++SettingOff.png
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\resources\settingoff.png
+++SettingOn.png
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\resources\settingon.png
+++start.png
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\resources\start.png
+++NotesClass.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ribbonbuttonclasses\notesclass.cs
+++SelectFromClass.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ribbonbuttonclasses\selectfromclass.cs
+++SettingClass.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ribbonbuttonclasses\settingclass.cs
+++StartStopClass.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ribbonbuttonclasses\startstopclass.cs
+++Settings.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\settings\settings.cs
+++SQLiteUtil.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\sqlite helper\sqliteutil.cs
+++MainWindow.xaml
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ui\mainwindow.xaml
+++NoteWindow.xaml
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ui\notewindow.xaml
+++Prog.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ui\prog.cs
+++ProgressWindow.xaml
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ui\progresswindow.xaml
+++ViewModel.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ui\viewmodel.cs
+++Resources.Designer.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\properties\resources.designer.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\properties\resources.designer.cs
+++MainWindow.xaml.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ui\mainwindow.xaml.cs
+++NoteWindow.xaml.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ui\notewindow.xaml.cs
+++Prog.Designer.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ui\prog.designer.cs
+++Prog.resx
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ui\prog.resx
+++ProgressWindow.xaml.cs
+i:{51c2dab7-f877-4080-8d8c-8064c3b3f2ab}:d:\freelance\revit api\revit element checker\v4\loggerproject\ui\progresswindow.xaml.cs
+++Revit.IFC.Export
+i:{00000000-0000-0000-0000-000000000000}:Revit.IFC.Export
+++Antlr4.CodeGenerator
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:
+++Antlr4.Runtime
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:
+++GeometryGymIFC
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:
+++Exporter
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\
+++Toolkit
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\toolkit\
+++AllocatedGeometryObjectCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\allocatedgeometryobjectcache.cs
+++AssemblyInstanceCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\assemblyinstancecache.cs
+++AttributeCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\attributecache.cs
+++BooleanPropertyInfoCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\booleanpropertyinfocache.cs
+++CategoryUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\categoryutil.cs
+++ClassificationCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\classificationcache.cs
+++ClassificationLocationCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\classificationlocationcache.cs
+++ClassificationReferenceCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\classificationreferencecache.cs
+++ContainmentCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\containmentcache.cs
+++CurveAnnotationCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\curveannotationcache.cs
+++DoorWindowDelayedOpeningCreator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\doorwindowdelayedopeningcreator.cs
+++DoorWindowDelayedOpeningCreatorCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\doorwindowdelayedopeningcreatorcache.cs
+++DoorWindowInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\doorwindowinfo.cs
+++DoorWindowOpeningInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\doorwindowopeninginfo.cs
+++DoorWindowUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\doorwindowutil.cs
+++DoublePropertyInfoCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\doublepropertyinfocache.cs
+++DummyHostCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\dummyhostcache.cs
+++ElementFilteringUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\elementfilteringutil.cs
+++ElementToHandleCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\elementtohandlecache.cs
+++ElementTypeToHandleCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\elementtypetohandlecache.cs
+++ExporterCacheManager.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\exportercachemanager.cs
+++ExporterStateManager.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\exporterstatemanager.cs
+++ExporterUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\exporterutil.cs
+++ExportOptionsCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\exportoptionscache.cs
+++FabricParams.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\fabricparams.cs
+++FamilyExporterUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\familyexporterutil.cs
+++FamilyTypeInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\familytypeinfo.cs
+++FootPrintInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\footprintinfo.cs
+++GeometryUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\geometryutil.cs
+++GroupCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\groupcache.cs
+++GUIDOptions.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\guidoptions.cs
+++GUIDUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\guidutil.cs
+++HandleToElementCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\handletoelementcache.cs
+++HostPartsCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\hostpartscache.cs
+++IFCExportInfoPair.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\ifcexportinfopair.cs
+++IntegerPropertyInfoCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\integerpropertyinfocache.cs
+++LevelInfoCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\levelinfocache.cs
+++LevelUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\levelutil.cs
+++LogicalPropertyInfoCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\logicalpropertyinfocache.cs
+++MaterialAndProfile.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\materialandprofile.cs
+++MaterialConstituentCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\materialconstituentcache.cs
+++MaterialConstituentSetCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\materialconstituentsetcache.cs
+++MaterialLayerRelationsCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\materiallayerrelationscache.cs
+++MaterialLayerSetCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\materiallayersetcache.cs
+++MaterialLayerSetInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\materiallayersetinfo.cs
+++MaterialRelationsCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\materialrelationscache.cs
+++MEPCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\mepcache.cs
+++NamingOptions.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\namingoptions.cs
+++NamingUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\namingutil.cs
+++OpeningUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\openingutil.cs
+++ParameterCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\parametercache.cs
+++ParameterElementCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\parameterelementcache.cs
+++ParameterUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\parameterutil.cs
+++ParamExprErrorListener.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\paramexprerrorlistener.cs
+++ParamExprGrammar.g4
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\paramexprgrammar.g4
+++ParamExprListener.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\paramexprlistener.cs
+++ParamExprLogger.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\paramexprlogger.cs
+++ParamExprResolver.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\paramexprresolver.cs
+++PartExportedCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\partexportedcache.cs
+++PresentationLayerSetCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\presentationlayersetcache.cs
+++PresentationStyleAssignmentCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\presentationstyleassignmentcache.cs
+++ProductWrapper.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\productwrapper.cs
+++PropertyInfoCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\propertyinfocache.cs
+++PropertyMap.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\propertymap.cs
+++PropertySetOptions.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\propertysetoptions.cs
+++RepresentationUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\representationutil.cs
+++SimpleSweptSolidAnalyzer.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\simplesweptsolidanalyzer.cs
+++SolidMeshGeometryInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\solidmeshgeometryinfo.cs
+++SpaceBoundaryCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\spaceboundarycache.cs
+++SpaceBoundingElementUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\spaceboundingelementutil.cs
+++SpaceInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\spaceinfo.cs
+++SpaceOccupantInfoCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\spaceoccupantinfocache.cs
+++StairRampContainerInfoCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\stairrampcontainerinfocache.cs
+++StringPropertyInfoCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\stringpropertyinfocache.cs
+++SystemsCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\systemscache.cs
+++TriangleMergeUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\trianglemergeutil.cs
+++TypeObjectsCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\typeobjectscache.cs
+++TypePropertyInfoCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\typepropertyinfocache.cs
+++TypeRelationsCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\typerelationscache.cs
+++UnitsCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\unitscache.cs
+++UnitUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\unitutil.cs
+++WallConnectionDataCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\wallconnectiondatacache.cs
+++ZoneInfoCache.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\zoneinfocache.cs
+++PropertySet
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\
+++AreaSchemeExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\areaschemeexporter.cs
+++AssemblyInstanceExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\assemblyinstanceexporter.cs
+++AssemblyInstanceInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\assemblyinstanceinfo.cs
+++BeamExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\beamexporter.cs
+++BodyData.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\bodydata.cs
+++BodyExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\bodyexporter.cs
+++BodyExporterOptions.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\bodyexporteroptions.cs
+++BoundingBoxExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\boundingboxexporter.cs
+++CeilingExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\ceilingexporter.cs
+++ConnectorExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\connectorexporter.cs
+++CurtainSystemExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\curtainsystemexporter.cs
+++CurveElementExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\curveelementexporter.cs
+++DoorWindowExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\doorwindowexporter.cs
+++DuctInsulationExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\ductinsulationexporter.cs
+++DuctLiningExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\ductliningexporter.cs
+++Exporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\exporter.cs
+++ExporterInitializer.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\exporterinitializer.cs
+++ExporterInitializer_PsetDef.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\exporterinitializer_psetdef.cs
+++ExtrusionExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\extrusionexporter.cs
+++FabricSheetExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\fabricsheetexporter.cs
+++FamilyInstanceExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\familyinstanceexporter.cs
+++FilledRegionExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\filledregionexporter.cs
+++FloorExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\floorexporter.cs
+++FootingExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\footingexporter.cs
+++GenericElementExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\genericelementexporter.cs
+++GenericMEPExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\genericmepexporter.cs
+++GridExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\gridexporter.cs
+++GroupExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\groupexporter.cs
+++GroupInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\groupinfo.cs
+++HandleAndData.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\handleanddata.cs
+++HostedSweepExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\hostedsweepexporter.cs
+++HostObjectExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\hostobjectexporter.cs
+++IFCEntityAndPsetList.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\ifcentityandpsetlist.cs
+++InsulationExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\insulationexporter.cs
+++PartExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\partexporter.cs
+++PileExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\pileexporter.cs
+++PipeInsulationExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\pipeinsulationexporter.cs
+++ProxyElementExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\proxyelementexporter.cs
+++RailingExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\railingexporter.cs
+++RampExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\rampexporter.cs
+++RebarCouplerExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\rebarcouplerexporter.cs
+++RebarExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\rebarexporter.cs
+++RoofExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\roofexporter.cs
+++SiteExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\siteexporter.cs
+++SpaceBoundary.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\spaceboundary.cs
+++SpaceOccupantInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\spaceoccupantinfo.cs
+++SpatialElementExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\spatialelementexporter.cs
+++StairRampContainerInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\stairrampcontainerinfo.cs
+++StairsExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\stairsexporter.cs
+++StructuralMemberExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\structuralmemberexporter.cs
+++SurfaceExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\surfaceexporter.cs
+++SweptSolidExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\sweptsolidexporter.cs
+++TextNoteExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\textnoteexporter.cs
+++TypePropertyInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\typepropertyinfo.cs
+++WallConnectionData.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\wallconnectiondata.cs
+++WallExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\wallexporter.cs
+++WallSweepExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\wallsweepexporter.cs
+++ZoneExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\zoneexporter.cs
+++ZoneInfo.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\zoneinfo.cs
+++IFC4Enums.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\toolkit\ifc4enums.cs
+++IFCDataUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\toolkit\ifcdatautil.cs
+++IFCEnums.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\toolkit\ifcenums.cs
+++IFCInstanceExporter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\toolkit\ifcinstanceexporter.cs
+++IFCSubElementEnums.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\toolkit\ifcsubelementenums.cs
+++IFCValidateEntry.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\toolkit\ifcvalidateentry.cs
+++PlacementSetter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\toolkit\placementsetter.cs
+++TransformSetter.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\toolkit\transformsetter.cs
+++Calculators
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\
+++AttributeEntry.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\attributeentry.cs
+++AttributeEntryMap.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\attributeentrymap.cs
+++AttributeSetDescription.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\attributesetdescription.cs
+++ClassificationUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\classificationutil.cs
+++Description.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\description.cs
+++DescriptionCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\descriptioncalculator.cs
+++ElectricalCurrentPropertyUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\electricalcurrentpropertyutil.cs
+++ElectricalVoltagePropertyUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\electricalvoltagepropertyutil.cs
+++Entry.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\entry.cs
+++EntryMap.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\entrymap.cs
+++ExporterInitializer_PsetDefIFC2X2Enum.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\exporterinitializer_psetdefifc2x2enum.cs
+++ExporterInitializer_PsetDefIFC2X3TC1Enum.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\exporterinitializer_psetdefifc2x3tc1enum.cs
+++ExporterInitializer_PsetDefIFC4Enum.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\exporterinitializer_psetdefifc4enum.cs
+++FrequencyPropertyUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\frequencypropertyutil.cs
+++PositivePlaneAnglePropertyUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\positiveplaneanglepropertyutil.cs
+++PropertyCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\propertycalculator.cs
+++PropertySetDescription.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\propertysetdescription.cs
+++PropertySetEntry.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\propertysetentry.cs
+++PropertySetEntryMap.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\propertysetentrymap.cs
+++PropertySetEntryUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\propertysetentryutil.cs
+++PropertyUtil.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\propertyutil.cs
+++QuantityDescription.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\quantitydescription.cs
+++QuantityEntry.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\quantityentry.cs
+++QuantityEntryMap.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\quantityentrymap.cs
+++AreaCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\areacalculator.cs
+++ConcealCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\concealcalculator.cs
+++CrossSectionAreaCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\crosssectionareacalculator.cs
+++DepthCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\depthcalculator.cs
+++DiameterCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\diametercalculator.cs
+++ExtendToStructureCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\extendtostructurecalculator.cs
+++FinishCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\finishcalculator.cs
+++FireRatingCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\fireratingcalculator.cs
+++GrossAreaCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\grossareacalculator.cs
+++GrossSurfaceAreaCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\grosssurfaceareacalculator.cs
+++GrossVolumeCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\grossvolumecalculator.cs
+++GrossWeightCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\grossweightcalculator.cs
+++HeightCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\heightcalculator.cs
+++IsExternalCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\isexternalcalculator.cs
+++ISOCD3766BendingEndHookCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\isocd3766bendingendhookcalculator.cs
+++ISOCD3766BendingStartHookCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\isocd3766bendingstarthookcalculator.cs
+++ISOCD3766ShapeCode.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\isocd3766shapecode.cs
+++ISOCD3766ShapeParameterACalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\isocd3766shapeparameteracalculator.cs
+++ISOCD3766ShapeParameterBCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\isocd3766shapeparameterbcalculator.cs
+++ISOCD3766ShapeParameterCCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\isocd3766shapeparameterccalculator.cs
+++ISOCD3766ShapeParameterDCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\isocd3766shapeparameterdcalculator.cs
+++ISOCD3766ShapeParameterECalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\isocd3766shapeparameterecalculator.cs
+++LengthCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\lengthcalculator.cs
+++LoadBearingCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\loadbearingcalculator.cs
+++NetSurfaceAreaCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\netsurfaceareacalculator.cs
+++NetVolumeCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\netvolumecalculator.cs
+++NetWeightCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\netweightcalculator.cs
+++NosingLengthCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\nosinglengthcalculator.cs
+++NumberOfRiserCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\numberofrisercalculator.cs
+++NumberOfStoreysCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\numberofstoreyscalculator.cs
+++NumberOfTreadsCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\numberoftreadscalculator.cs
+++OuterSurfaceAreaCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\outersurfaceareacalculator.cs
+++PerimeterCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\perimetercalculator.cs
+++ProjectedAreaCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\projectedareacalculator.cs
+++ReferenceCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\referencecalculator.cs
+++RiserHeightCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\riserheightcalculator.cs
+++RollCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\rollcalculator.cs
+++ShapeCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\shapecalculator.cs
+++SlopeCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\slopecalculator.cs
+++SpaceLevelAreaCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\spacelevelareacalculator.cs
+++SpaceLevelDescriptionCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\spaceleveldescriptioncalculator.cs
+++SpanCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\spancalculator.cs
+++SpecificZoneCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\specificzonecalculator.cs
+++TemperatureCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\temperaturecalculator.cs
+++TreadLengthAtInnerSideCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\treadlengthatinnersidecalculator.cs
+++TreadLengthAtOffsetCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\treadlengthatoffsetcalculator.cs
+++TreadLengthCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\treadlengthcalculator.cs
+++VolumeCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\volumecalculator.cs
+++WaistThicknessCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\waistthicknesscalculator.cs
+++WalkingLineOffsetCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\walkinglineoffsetcalculator.cs
+++WidthCalculator.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\exporter\propertyset\calculators\widthcalculator.cs
+++BaseRelationsCache.cs
+++ElementOrConnector.cs
+i:{bce5141a-291b-4cd8-a69b-7b9345aa00e9}:d:\freelance\revit api\revit element checker\v4\ifcexporter\source\revit.ifc.export\utility\elementorconnector.cs
+++MaterialSetUsageCache.cs
+++bin
+++Debug
+++x64
+++cs-CZ
+++de-DE
+++en-GB
+++en-US
+++es-ES
+++fr-FR
+++it-IT
+++ja-JP
+++ko-KR
+++pl-PL
+++pt-BR
+++ru-RU
+++zh-CN
+++zh-TW
+++AddInManager.dll
+++AdWindows.dll
+++Antlr4.Runtime.dll
+++APIInterop.dll
+++APIUIAPI.dll
+++Autodesk.UI.Themes.dll
+++Autodesk.UI.Windows.dll
+++BuildingSystemsUIAPI.dll
+++DesktopMFCAPI.dll
+++DetailUIAPI.dll
+++EnergyAnalysisUtilitiesAPI.dll
+++EssentialsUIAPI.dll
+++GeometryGymIFC.dll
+++Newtonsoft.Json.dll
+++Revit.IFC.Export.dll
+++Revit.IFC.Export.pdb
+++RevitAddInUtility.dll
+++RevitAddInUtility.xml
+++RevitAPI.dll
+++RevitAPI.xml
+++RevitAPIIFC.dll
+++RevitAPIIFC.xml
+++RevitAPIUI.dll
+++RevitAPIUI.xml
+++RevitMFCAPI.dll
+++RevitUIAPI.dll
+++UIFramework.dll
+++UIFrameworkServices.dll
+++Xceed.Wpf.AvalonDock.dll
+++AdWindows.resources.dll
+++obj
+++project.assets.json
+++project.nuget.cache
+++Revit.IFC.Export.csproj.nuget.dgspec.json
+++Revit.IFC.Export.csproj.nuget.g.props
+++Revit.IFC.Export.csproj.nuget.g.targets
+++TempPE
+++.NETFramework,Version=v4.8.AssemblyAttributes.cs
+++build.force
+++DesignTimeResolveAssemblyReferencesInput.cache
+++ParamExprGrammar.tokens
+++ParamExprGrammarBaseListener.cs
+++ParamExprGrammarBaseVisitor.cs
+++ParamExprGrammarLexer.cs
+++ParamExprGrammarLexer.tokens
+++ParamExprGrammarListener.cs
+++ParamExprGrammarParser.cs
+++ParamExprGrammarVisitor.cs
+++Revit.IFC.Export.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+++Revit.IFC.Export.csproj.AssemblyReference.cache
+++Revit.IFC.Export.csproj.CopyComplete
+++Revit.IFC.Export.csproj.CoreCompileInputs.cache
+++Revit.IFC.Export.csproj.FileListAbsolute.txt
+++Revit.IFC.Export.csproj.GenerateResource.cache
+++Revit.IFC.Export.Properties.Resources.resources
+++Properties.Resources.Designer.cs.dll
+++Revit.IFC.Export.props
+++ISOCD3766ShapeParameterRCalculator.cs
+++LongitudinalBarNominalDiameter.cs
+++LongitudinalBarSpacing.cs
+++MeshLengthCalculator.cs
+++MeshWidthCalculator.cs
+++SlabLoadBearingCalculator.cs
+++TransverseBarNominalDiameter.cs
+++TransverseBarSpacing.cs
+++ParamExprResolverParser.g4
+++WallCrossSectionCache.cs
+++IFC4x1EntityType.cs
+++IFC4x2EntityType.cs
+++IFC4x3EntityType.cs
+++CoordReferenceInfo.cs
+++IFCEntityTrie.cs
+++AdpSDKCSharpWrapper.dll
+++AdskRcManaged.dll
+++AnalysisAppsDBAPI.dll
+++APIDBAPI.dll
+++ArrayElemsDBAPI.dll
+++AssemblyDBAPI.dll
+++ATFRevitCoreAPI.dll
+++BuildingSystemsDBAPI.dll
+++CurtainGridFamilyDBAPI.dll
+++DBManagedServices.dll
+++DetailDBAPI.dll
+++DPartDBAPI.dll
+++ElementGroupDBAPI.dll
+++EnergyAnalysisDBAPI.dll
+++EssentialsDBAPI.dll
+++FamilyDBAPI.dll
+++GeomUtilAPI.dll
+++GraphicsAPI.dll
+++HostObjDBAPI.dll
+++InfrastructureDBAPI.dll
+++InterfaceAPI.dll
+++InterfaceUtilAPI.dll
+++IntfATFAPI.dll
+++IntfIFCAPI.dll
+++MassingDBAPI.dll
+++MaterialDBAPI.dll
+++NumberingDBAPI.dll
+++PersistenceDBAPI.dll
+++PointCloudAccessAPI.dll
+++RebarDBAPI.dll
+++Revit.IFC.Common.dll
+++Revit.IFC.Common.pdb
+++RevitAPIFoundation.dll
+++RevitDBAPI.dll
+++RevitDBCoreAPI.dll
+++RoomAreaPlanDBAPI.dll
+++SculptingDBAPI.dll
+++SiteDBAPI.dll
+++StairRampDBAPI.dll
+++StructuralAnalysisDBAPI.dll
+++StructuralDBAPI.dll
+++TextEngineAPI.dll
+++UtilityAPI.dll
+++DesignTimeResolveAssemblyReferences.cache
+++Revit.IFC.Common.csproj.AssemblyReference.cache
+++Revit.IFC.Common.csproj.CopyComplete
+++Revit.IFC.Common.csproj.CoreCompileInputs.cache
+++Revit.IFC.Common.csproj.FileListAbsolute.txt
+++Revit.IFC.Common.props

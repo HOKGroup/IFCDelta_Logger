@@ -1,0 +1,46 @@
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\bin\Debugx64\LoggerIFCExporter.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\bin\Debugx64\LoggerIFCExporter.pdb
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\bin\Debugx64\Antlr4.Runtime.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\bin\Debugx64\GeometryGymIFC.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\bin\Debugx64\Newtonsoft.Json.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\bin\Debugx64\RevitAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\bin\Debugx64\RevitAPIIFC.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\bin\Debugx64\RevitAPI.xml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\bin\Debugx64\RevitAPIIFC.xml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\Revit.IFC.Export.csproj.AssemblyReference.cache
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\ParamExprGrammarLexer.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\ParamExprGrammarParser.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\ParamExprGrammarListener.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\ParamExprGrammarBaseListener.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\ParamExprGrammarVisitor.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\ParamExprGrammarBaseVisitor.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\Revit.IFC.Export.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\Revit.IFC.Export.Properties.Resources.resources
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\Revit.IFC.Export.csproj.GenerateResource.cache
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\Revit.IFC.Export.csproj.CoreCompileInputs.cache
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\Revit.IFC.Export.csproj.CopyComplete
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\LoggerIFCExporter.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\Revit.IFC.Export\obj\x64\Debug\LoggerIFCExporter.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\bin\Debugx64\LoggerIFCExporter.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\bin\Debugx64\LoggerIFCExporter.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\bin\Debugx64\Antlr4.Runtime.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\bin\Debugx64\GeometryGymIFC.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\bin\Debugx64\Newtonsoft.Json.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\bin\Debugx64\RevitAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\bin\Debugx64\RevitAPIIFC.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\bin\Debugx64\RevitAPI.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\bin\Debugx64\RevitAPIIFC.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\Revit.IFC.Export.csproj.AssemblyReference.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\ParamExprGrammarLexer.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\ParamExprGrammarParser.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\ParamExprGrammarListener.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\ParamExprGrammarBaseListener.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\ParamExprGrammarVisitor.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\ParamExprGrammarBaseVisitor.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\Revit.IFC.Export.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\Revit.IFC.Export.Properties.Resources.resources
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\Revit.IFC.Export.csproj.GenerateResource.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\Revit.IFC.Export.csproj.CoreCompileInputs.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\Revit.IFC.Export.csproj.CopyComplete
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\LoggerIFCExporter.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\Revit.IFC.Export\obj\x64\Debug\LoggerIFCExporter.pdb

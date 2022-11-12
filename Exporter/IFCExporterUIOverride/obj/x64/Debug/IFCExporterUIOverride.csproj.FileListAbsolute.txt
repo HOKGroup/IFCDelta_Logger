@@ -1,0 +1,244 @@
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\LoggerIFCExportUIOverride.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\LoggerIFCExportUIOverride.pdb
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\de\LoggerIFCExportUIOverride.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\fr\LoggerIFCExportUIOverride.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\Autodesk.UI.Windows.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\LoggerIFCCommon.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitAPIIFC.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitAPIUI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\UserInterfaceUtility.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\AdpSDKCSharpWrapper.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\AdskRcManaged.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitAPIFoundation.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitDBCoreAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\PersistenceDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\UtilityAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\APIDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\GraphicsAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\ElementGroupDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\EssentialsDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\GeomUtilAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\FamilyDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\DetailDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\CurtainGridFamilyDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\ArrayElemsDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\EnergyAnalysisDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\BuildingSystemsDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\HostObjDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RoomAreaPlanDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\SiteDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\SculptingDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\StructuralDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\InterfaceAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\InterfaceUtilAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RebarDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\StructuralAnalysisDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\MassingDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\AssemblyDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\DPartDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\NumberingDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\PointCloudAccessAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\StairRampDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\AnalysisAppsDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\MaterialDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\IntfATFAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\TextEngineAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\InfrastructureDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\ATFRevitCoreAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\DBManagedServices.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\IntfIFCAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\AdWindows.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitAddInUtility.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\APIInterop.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\UIFramework.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\AddInManager.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitUIAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\BuildingSystemsUIAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\DesktopMFCAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\APIUIAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitMFCAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\EssentialsUIAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\DetailUIAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\UIFrameworkServices.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\Autodesk.UI.Themes.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\Xceed.Wpf.AvalonDock.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\CompositionServices.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\LoggerIFCCommon.pdb
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitAPI.xml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitAPIIFC.xml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitAPIUI.xml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\RevitAddInUtility.xml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\cs-CZ\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\de-DE\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\en-GB\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\en-US\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\es-ES\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\fr-FR\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\it-IT\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\ja-JP\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\ko-KR\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\pl-PL\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\pt-BR\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\ru-RU\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\zh-CN\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\bin\Debugx64\zh-TW\AdWindows.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCExporterUIOverride.csproj.AssemblyReference.cache
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\COBieCompanyInfoTab.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\COBieProjectInfoTab.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCAddressInformationUI.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCClassificationUI.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCEntityTree\EntityTree.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCEntityTree\PredefinedTypeSelection.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCFileHeaderInformationUI.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCRenameExportSetup.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCExport.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCExporterUIWindow.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCNewExportSetup.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\LoggerIFCExportUIOverride_MarkupCompile.cache
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\LoggerIFCExportUIOverride_MarkupCompile.lref
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\COBieCompanyInfoTab.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\COBieProjectInfoTab.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCAddressInformationUI.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCClassificationUI.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCEntityTree\EntityTree.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCEntityTree\PredefinedTypeSelection.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCFileHeaderInformationUI.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCRenameExportSetup.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCExport.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCExporterUIWindow.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCNewExportSetup.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\LoggerIFCExportUIOverride.g.resources
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\BIM.IFC.Export.UI.Properties.Resources.resources
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\BIM.IFC.Export.UI.Properties.Resources.de.resources
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\BIM.IFC.Export.UI.Properties.Resources.fr.resources
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCExporterUIOverride.csproj.GenerateResource.cache
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCExporterUIOverride.csproj.CoreCompileInputs.cache
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\de\LoggerIFCExportUIOverride.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\fr\LoggerIFCExportUIOverride.resources.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\IFCExporterUIOverride.csproj.CopyComplete
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\LoggerIFCExportUIOverride.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\LoggerIFCExportUIOverride.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\LoggerIFCExportUIOverride.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\LoggerIFCExportUIOverride.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\de\LoggerIFCExportUIOverride.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\fr\LoggerIFCExportUIOverride.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\Autodesk.UI.Windows.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\LoggerIFCCommon.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitAPIIFC.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitAPIUI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\UserInterfaceUtility.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\AdpSDKCSharpWrapper.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\AdskRcManaged.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitAPIFoundation.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitDBCoreAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\PersistenceDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\UtilityAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\APIDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\GraphicsAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\ElementGroupDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\EssentialsDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\GeomUtilAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\FamilyDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\DetailDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\CurtainGridFamilyDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\ArrayElemsDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\EnergyAnalysisDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\BuildingSystemsDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\HostObjDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RoomAreaPlanDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\SiteDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\SculptingDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\StructuralDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\InterfaceAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\InterfaceUtilAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RebarDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\StructuralAnalysisDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\MassingDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\AssemblyDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\DPartDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\NumberingDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\PointCloudAccessAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\StairRampDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\AnalysisAppsDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\MaterialDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\IntfATFAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\TextEngineAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\InfrastructureDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\ATFRevitCoreAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\DBManagedServices.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\IntfIFCAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\AdWindows.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitAddInUtility.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\APIInterop.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\UIFramework.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\AddInManager.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitUIAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\BuildingSystemsUIAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\DesktopMFCAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\APIUIAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitMFCAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\EssentialsUIAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\DetailUIAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\UIFrameworkServices.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\Autodesk.UI.Themes.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\Xceed.Wpf.AvalonDock.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\CompositionServices.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\LoggerIFCCommon.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitAPI.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitAPIIFC.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitAPIUI.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\RevitAddInUtility.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\cs-CZ\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\de-DE\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\en-GB\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\en-US\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\es-ES\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\fr-FR\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\it-IT\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\ja-JP\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\ko-KR\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\pl-PL\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\pt-BR\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\ru-RU\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\zh-CN\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\bin\Debugx64\zh-TW\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCExporterUIOverride.csproj.AssemblyReference.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\COBieCompanyInfoTab.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\COBieProjectInfoTab.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCAddressInformationUI.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCClassificationUI.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCEntityTree\EntityTree.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCEntityTree\PredefinedTypeSelection.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCFileHeaderInformationUI.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCRenameExportSetup.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCExport.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCExporterUIWindow.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCNewExportSetup.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\LoggerIFCExportUIOverride_MarkupCompile.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\LoggerIFCExportUIOverride_MarkupCompile.lref
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\COBieCompanyInfoTab.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\COBieProjectInfoTab.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCAddressInformationUI.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCClassificationUI.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCEntityTree\EntityTree.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCEntityTree\PredefinedTypeSelection.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCFileHeaderInformationUI.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCRenameExportSetup.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCExport.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCExporterUIWindow.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCNewExportSetup.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\LoggerIFCExportUIOverride.g.resources
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\BIM.IFC.Export.UI.Properties.Resources.resources
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\BIM.IFC.Export.UI.Properties.Resources.de.resources
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\BIM.IFC.Export.UI.Properties.Resources.fr.resources
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCExporterUIOverride.csproj.GenerateResource.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCExporterUIOverride.csproj.CoreCompileInputs.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\de\LoggerIFCExportUIOverride.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\fr\LoggerIFCExportUIOverride.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\IFCExporterUIOverride.csproj.CopyComplete
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\LoggerIFCExportUIOverride.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\IFCExporterUIOverride\obj\x64\Debug\LoggerIFCExportUIOverride.pdb

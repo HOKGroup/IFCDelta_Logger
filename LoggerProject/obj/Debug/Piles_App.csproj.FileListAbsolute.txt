@@ -1,0 +1,39 @@
+C:\Users\ITI\source\repos\Piles_App\bin\Debug\Piles_App.dll
+C:\Users\ITI\source\repos\Piles_App\bin\Debug\Piles_App.pdb
+C:\Users\ITI\source\repos\Piles_App\obj\Debug\UI\MainWindow.g.cs
+C:\Users\ITI\source\repos\Piles_App\obj\Debug\Piles_App_MarkupCompile.cache
+C:\Users\ITI\source\repos\Piles_App\obj\Debug\Piles_App_MarkupCompile.lref
+C:\Users\ITI\source\repos\Piles_App\obj\Debug\UI\MainWindow.baml
+C:\Users\ITI\source\repos\Piles_App\obj\Debug\Piles_App.g.resources
+C:\Users\ITI\source\repos\Piles_App\obj\Debug\Piles_App.csproj.CoreCompileInputs.cache
+C:\Users\ITI\source\repos\Piles_App\obj\Debug\Piles_App.dll
+C:\Users\ITI\source\repos\Piles_App\obj\Debug\Piles_App.pdb
+C:\Users\ITI\source\repos\Piles_App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\obj\Debug\Piles_App.csproj.AssemblyReference.cache
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\obj\Debug\UI\MainWindow.g.cs
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\obj\Debug\Piles_App_MarkupCompile.cache
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\obj\Debug\Piles_App_MarkupCompile.lref
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\obj\Debug\Piles_App.dll
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\obj\Debug\Piles_App.pdb
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\bin\Debug\Piles_App.dll
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\bin\Debug\Piles_App.pdb
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\obj\Debug\UI\MainWindow.baml
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\obj\Debug\Piles_App.g.resources
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\obj\Debug\Piles_App.csproj.CoreCompileInputs.cache
+D:\freelance\Revit Api\Piles_App\bin\Debug\Piles_App.dll
+D:\freelance\Revit Api\Piles_App\bin\Debug\Piles_App.pdb
+D:\freelance\Revit Api\Piles_App\obj\Debug\Piles_App.csproj.AssemblyReference.cache
+D:\freelance\Revit Api\Piles_App\obj\Debug\UI\MainWindow.g.cs
+D:\freelance\Revit Api\Piles_App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\freelance\Revit Api\Piles_App\obj\Debug\Piles_App_MarkupCompile.cache
+D:\freelance\Revit Api\Piles_App\obj\Debug\Piles_App_MarkupCompile.lref
+D:\freelance\Revit Api\Piles_App\obj\Debug\UI\MainWindow.baml
+D:\freelance\Revit Api\Piles_App\obj\Debug\Piles_App.g.resources
+D:\freelance\Revit Api\Piles_App\obj\Debug\Piles_App.csproj.CoreCompileInputs.cache
+D:\freelance\Revit Api\Piles_App\obj\Debug\Piles_App.dll
+D:\freelance\Revit Api\Piles_App\obj\Debug\Piles_App.pdb
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\obj\Debug\Piles_App.Properties.Resources.resources
+E:\Work\Companies\Upwork\13-Piles Plugin\Piles_App\obj\Debug\Piles_App.csproj.GenerateResource.cache
+D:\freelance\Revit Api\Piles_App\obj\Debug\Piles_App.Properties.Resources.resources
+D:\freelance\Revit Api\Piles_App\obj\Debug\Piles_App.csproj.GenerateResource.cache

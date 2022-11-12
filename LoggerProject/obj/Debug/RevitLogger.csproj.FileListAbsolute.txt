@@ -1,0 +1,683 @@
+D:\freelance\Revit Api\Revit element checker\obj\Debug\UI\MainWindow.g.cs
+D:\freelance\Revit Api\Revit element checker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\freelance\Revit Api\Revit element checker\obj\Debug\UI\MainWindow.baml
+D:\freelance\Revit Api\Revit element checker\obj\Debug\RevitLogger.csproj.GenerateResource.cache
+D:\freelance\Revit Api\Revit element checker\obj\Debug\RevitLogger.csproj.CoreCompileInputs.cache
+D:\freelance\Revit Api\Revit element checker\obj\Debug\RevitLogger.csproj.AssemblyReference.cache
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitLogger.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitLogger.pdb
+D:\freelance\Revit Api\Revit element checker\obj\Debug\RevitLogger_MarkupCompile.cache
+D:\freelance\Revit Api\Revit element checker\obj\Debug\RevitLogger_MarkupCompile.lref
+D:\freelance\Revit Api\Revit element checker\obj\Debug\RevitLogger.g.resources
+D:\freelance\Revit Api\Revit element checker\obj\Debug\RevitLogger.Properties.Resources.resources
+D:\freelance\Revit Api\Revit element checker\obj\Debug\RevitLogger.dll
+D:\freelance\Revit Api\Revit element checker\obj\Debug\RevitLogger.pdb
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitAPIIFC.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitAPIUI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\AdskRcManaged.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitAPIFoundation.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitDBCoreAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\PersistenceDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\UtilityAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\APIDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\GraphicsAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\ElementGroupDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\EssentialsDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\GeomUtilAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\FamilyDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\DetailDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\ArrayElemsDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\BuildingSystemsDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\HostObjDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\SiteDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\SculptingDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\StructuralDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\InterfaceAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\InterfaceUtilAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RebarDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\MassingDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\AssemblyDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\DPartDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\NumberingDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\PointCloudAccessAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\StairRampDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\AnalysisAppsDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\MaterialDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\IntfATFAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\TextEngineAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\DBManagedServices.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\IntfIFCAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitAddInUtility.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\APIInterop.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\UIFramework.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\AddInManager.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\BuildingSystemsUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\DesktopMFCAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\APIUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitMFCAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\EssentialsUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\DetailUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\UIFrameworkServices.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\Autodesk.UI.Windows.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\Autodesk.UI.Themes.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\CompositionServices.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitAPI.xml
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitAPIIFC.xml
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitAPIUI.xml
+D:\freelance\Revit Api\Revit element checker\bin\Debug\RevitAddInUtility.xml
+D:\freelance\Revit Api\Revit element checker\obj\Debug\RevitLogger.csproj.CopyComplete
+D:\freelance\Revit Api\Revit element checker\bin\Debug\Newtonsoft.Json.dll
+D:\freelance\Revit Api\Revit element checker\bin\Debug\Newtonsoft.Json.xml
+D:\freelance\Revit Api\Revit element checker\obj\Debug\UI\ProgressWindow.g.cs
+D:\freelance\Revit Api\Revit element checker\obj\Debug\UI\ProgressWindow.baml
+D:\freelance\Revit Api\Revit element checker\obj\Debug\UI\NoteWindow.g.cs
+D:\freelance\Revit Api\Revit element checker\obj\Debug\UI\NoteWindow.baml
+D:\freelance\Revit Api\Revit element checker\obj\Debug\RevitLogger.UI.Prog.resources
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitLogger.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitLogger.pdb
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\Newtonsoft.Json.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitAPIIFC.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitAPIUI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\AdpSDKCSharpWrapper.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\AdskRcManaged.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitAPIFoundation.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitDBCoreAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\PersistenceDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\UtilityAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\APIDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\GraphicsAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\EssentialsDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\GeomUtilAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\FamilyDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\DetailDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\HostObjDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\SiteDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\SculptingDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\StructuralDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\InterfaceAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RebarDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\MassingDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\AssemblyDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\DPartDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\NumberingDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\StairRampDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\MaterialDBAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\IntfATFAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\TextEngineAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\DBManagedServices.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\IntfIFCAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitAddInUtility.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\APIInterop.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\UIFramework.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\AddInManager.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitUIAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\DesktopMFCAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\APIUIAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitMFCAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\EssentialsUIAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\DetailUIAPI.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\UIFrameworkServices.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\Autodesk.UI.Windows.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\Autodesk.UI.Themes.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\CompositionServices.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\Newtonsoft.Json.xml
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitAPI.xml
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitAPIIFC.xml
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitAPIUI.xml
+C:\Users\h\Downloads\RevitLoggerComments_05052022\bin\Debug\RevitAddInUtility.xml
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\RevitLogger.csproj.AssemblyReference.cache
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\UI\NoteWindow.g.cs
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\UI\ProgressWindow.g.cs
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\UI\MainWindow.g.cs
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\RevitLogger_MarkupCompile.cache
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\RevitLogger_MarkupCompile.lref
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\UI\NoteWindow.baml
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\UI\ProgressWindow.baml
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\UI\MainWindow.baml
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\RevitLogger.g.resources
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\RevitLogger.Properties.Resources.resources
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\RevitLogger.UI.Prog.resources
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\RevitLogger.csproj.GenerateResource.cache
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\RevitLogger.csproj.CoreCompileInputs.cache
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\RevitLogger.csproj.CopyComplete
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\RevitLogger.dll
+C:\Users\h\Downloads\RevitLoggerComments_05052022\obj\Debug\RevitLogger.pdb
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitLogger.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitLogger.pdb
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\Newtonsoft.Json.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitAPIIFC.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitAPIUI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\AdpSDKCSharpWrapper.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\AdskRcManaged.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitAPIFoundation.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitDBCoreAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\PersistenceDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\UtilityAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\APIDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\GraphicsAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\ElementGroupDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\EssentialsDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\GeomUtilAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\FamilyDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\DetailDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\CurtainGridFamilyDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\ArrayElemsDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\EnergyAnalysisDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\BuildingSystemsDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\HostObjDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RoomAreaPlanDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\SiteDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\SculptingDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\StructuralDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\InterfaceAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\InterfaceUtilAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RebarDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\StructuralAnalysisDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\MassingDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\AssemblyDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\DPartDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\NumberingDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\PointCloudAccessAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\StairRampDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\AnalysisAppsDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\MaterialDBAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\IntfATFAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\TextEngineAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\DBManagedServices.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\IntfIFCAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitAddInUtility.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\APIInterop.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\UIFramework.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\AddInManager.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitUIAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\BuildingSystemsUIAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\DesktopMFCAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\APIUIAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitMFCAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\EssentialsUIAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\DetailUIAPI.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\UIFrameworkServices.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\Autodesk.UI.Windows.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\Autodesk.UI.Themes.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\CompositionServices.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\Newtonsoft.Json.xml
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitAPI.xml
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitAPIIFC.xml
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitAPIUI.xml
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\bin\Debug\RevitAddInUtility.xml
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\RevitLogger.csproj.AssemblyReference.cache
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\UI\NoteWindow.g.cs
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\UI\ProgressWindow.g.cs
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\UI\MainWindow.g.cs
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\RevitLogger_MarkupCompile.cache
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\RevitLogger_MarkupCompile.lref
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\UI\NoteWindow.baml
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\UI\ProgressWindow.baml
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\UI\MainWindow.baml
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\RevitLogger.g.resources
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\RevitLogger.Properties.Resources.resources
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\RevitLogger.UI.Prog.resources
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\RevitLogger.csproj.GenerateResource.cache
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\RevitLogger.csproj.CoreCompileInputs.cache
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\RevitLogger.csproj.CopyComplete
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\RevitLogger.dll
+E:\Work\Companies\Fiverr\Log Plugin\Sent\Revit Addin\RevitLogger\obj\Debug\RevitLogger.pdb
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitLogger.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitLogger.pdb
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\Newtonsoft.Json.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitAPIIFC.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitAPIUI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\AdskRcManaged.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitAPIFoundation.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitDBCoreAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\PersistenceDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\UtilityAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\APIDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\GraphicsAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\ElementGroupDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\EssentialsDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\GeomUtilAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\FamilyDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\DetailDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\ArrayElemsDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\BuildingSystemsDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\HostObjDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\SiteDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\SculptingDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\StructuralDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\InterfaceAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\InterfaceUtilAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RebarDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\MassingDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\AssemblyDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\DPartDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\NumberingDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\PointCloudAccessAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\StairRampDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\AnalysisAppsDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\MaterialDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\IntfATFAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\TextEngineAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\DBManagedServices.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\IntfIFCAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitAddInUtility.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\APIInterop.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\UIFramework.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\AddInManager.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\BuildingSystemsUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\DesktopMFCAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\APIUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitMFCAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\EssentialsUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\DetailUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\UIFrameworkServices.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\Autodesk.UI.Windows.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\Autodesk.UI.Themes.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\CompositionServices.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\Newtonsoft.Json.xml
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitAPI.xml
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitAPIIFC.xml
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitAPIUI.xml
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitAddInUtility.xml
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\UI\NoteWindow.g.cs
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\UI\ProgressWindow.g.cs
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\UI\MainWindow.g.cs
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\RevitLogger_MarkupCompile.cache
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\RevitLogger_MarkupCompile.lref
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\UI\NoteWindow.baml
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\UI\ProgressWindow.baml
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\UI\MainWindow.baml
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\RevitLogger.g.resources
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\RevitLogger.Properties.Resources.resources
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\RevitLogger.UI.Prog.resources
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\RevitLogger.csproj.GenerateResource.cache
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\RevitLogger.csproj.CoreCompileInputs.cache
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\RevitLogger.csproj.CopyComplete
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\RevitLogger.dll
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\RevitLogger.pdb
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\RevitLogger.dll.config
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\EntityFramework.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\EntityFramework.SqlServer.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\System.Data.SQLite.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\EntityFramework.xml
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\EntityFramework.SqlServer.xml
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\System.Data.SQLite.xml
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\Remotion.Linq.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\System.Interactive.Async.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\Remotion.Linq.xml
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\System.Interactive.Async.xml
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\MoreLinq.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\System.ValueTuple.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\MoreLinq.pdb
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\MoreLinq.xml
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\System.ValueTuple.xml
+D:\freelance\Revit Api\Revit element checker\V2\obj\Debug\RevitLogger.csproj.AssemblyReference.cache
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\InfrastructureDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V2\bin\Debug\ATFRevitCoreAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitLogger.dll.config
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitLogger.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitLogger.pdb
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\EntityFramework.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\EntityFramework.SqlServer.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\MoreLinq.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\Newtonsoft.Json.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\Remotion.Linq.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitAPIIFC.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitAPIUI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\System.Data.SQLite.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\System.Data.SQLite.EF6.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\System.Data.SQLite.Linq.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\System.Interactive.Async.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\System.ValueTuple.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\AdskRcManaged.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitAPIFoundation.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitDBCoreAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\PersistenceDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\UtilityAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\APIDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\GraphicsAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\ElementGroupDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\EssentialsDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\GeomUtilAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\FamilyDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\DetailDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\ArrayElemsDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\BuildingSystemsDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\HostObjDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\SiteDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\SculptingDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\StructuralDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\InterfaceAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\InterfaceUtilAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RebarDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\MassingDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\AssemblyDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\DPartDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\NumberingDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\PointCloudAccessAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\StairRampDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\AnalysisAppsDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\MaterialDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\IntfATFAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\TextEngineAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\InfrastructureDBAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\ATFRevitCoreAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\DBManagedServices.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\IntfIFCAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitAddInUtility.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\APIInterop.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\UIFramework.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\AddInManager.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\BuildingSystemsUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\DesktopMFCAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\APIUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitMFCAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\EssentialsUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\DetailUIAPI.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\UIFrameworkServices.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\Autodesk.UI.Windows.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\Autodesk.UI.Themes.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\CompositionServices.dll
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\EntityFramework.xml
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\EntityFramework.SqlServer.xml
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\MoreLinq.pdb
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\MoreLinq.xml
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\Newtonsoft.Json.xml
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\Remotion.Linq.xml
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitAPI.xml
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitAPIIFC.xml
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitAPIUI.xml
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\System.Data.SQLite.xml
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\System.Interactive.Async.xml
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\System.ValueTuple.xml
+D:\freelance\Revit Api\Revit element checker\V3\bin\Debug\RevitAddInUtility.xml
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\RevitLogger.csproj.AssemblyReference.cache
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\UI\NoteWindow.g.cs
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\UI\ProgressWindow.g.cs
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\UI\MainWindow.g.cs
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\RevitLogger_MarkupCompile.cache
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\RevitLogger_MarkupCompile.lref
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\UI\NoteWindow.baml
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\UI\ProgressWindow.baml
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\UI\MainWindow.baml
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\RevitLogger.g.resources
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\RevitLogger.Properties.Resources.resources
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\RevitLogger.UI.Prog.resources
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\RevitLogger.csproj.GenerateResource.cache
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\RevitLogger.csproj.CoreCompileInputs.cache
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\RevitLogger.csproj.CopyComplete
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\RevitLogger.dll
+D:\freelance\Revit Api\Revit element checker\V3\obj\Debug\RevitLogger.pdb
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitLogger.dll.config
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitLogger.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitLogger.pdb
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\EntityFramework.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\MoreLinq.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\Remotion.Linq.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitAPIIFC.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitAPIUI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\System.Data.SQLite.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\System.Interactive.Async.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\System.ValueTuple.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\AdpSDKCSharpWrapper.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\AdskRcManaged.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitAPIFoundation.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitDBCoreAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\PersistenceDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\UtilityAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\APIDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\GraphicsAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\EssentialsDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\GeomUtilAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\FamilyDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\DetailDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\HostObjDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\SiteDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\SculptingDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\StructuralDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\InterfaceAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RebarDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\MassingDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\AssemblyDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\DPartDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\NumberingDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\StairRampDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\MaterialDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\IntfATFAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\TextEngineAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\InfrastructureDBAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\ATFRevitCoreAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\DBManagedServices.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\IntfIFCAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitAddInUtility.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\APIInterop.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\UIFramework.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\AddInManager.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitUIAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\DesktopMFCAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\APIUIAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitMFCAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\EssentialsUIAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\DetailUIAPI.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\UIFrameworkServices.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\Autodesk.UI.Windows.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\Autodesk.UI.Themes.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\CompositionServices.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\EntityFramework.xml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\MoreLinq.pdb
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\MoreLinq.xml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\Remotion.Linq.xml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitAPI.xml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitAPIIFC.xml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitAPIUI.xml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\System.Data.SQLite.xml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\System.Interactive.Async.xml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\System.ValueTuple.xml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\bin\Debug\RevitAddInUtility.xml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\UI\NoteWindow.g.cs
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\UI\ProgressWindow.g.cs
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\UI\MainWindow.g.cs
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\RevitLogger_MarkupCompile.cache
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\RevitLogger_MarkupCompile.lref
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\UI\NoteWindow.baml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\UI\ProgressWindow.baml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\UI\MainWindow.baml
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\RevitLogger.g.resources
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\RevitLogger.Properties.Resources.resources
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\RevitLogger.UI.Prog.resources
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\RevitLogger.csproj.GenerateResource.cache
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\RevitLogger.csproj.CoreCompileInputs.cache
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\RevitLogger.csproj.CopyComplete
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\RevitLogger.dll
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\RevitLogger.pdb
+C:\Users\omara\Downloads\RevitLogger V3.1 Sqlite\V3\obj\Debug\RevitLogger.csproj.AssemblyReference.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitLogger.dll.config
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitLogger.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitLogger.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\EntityFramework.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\LoggerIFCCommon.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\LoggerIFCExporter.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\LoggerIFCExportUIOverride.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\MoreLinq.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\Newtonsoft.Json.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\Remotion.Linq.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitAPIIFC.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitAPIUI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\System.Data.SQLite.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\System.Interactive.Async.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\System.ValueTuple.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\Autodesk.UI.Windows.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\UserInterfaceUtility.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\Antlr4.Runtime.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\GeometryGymIFC.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\AdpSDKCSharpWrapper.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\AdskRcManaged.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitAPIFoundation.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitDBCoreAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\PersistenceDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\UtilityAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\APIDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\GraphicsAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\ElementGroupDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\EssentialsDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\GeomUtilAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\FamilyDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\DetailDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\CurtainGridFamilyDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\ArrayElemsDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\EnergyAnalysisDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\BuildingSystemsDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\HostObjDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RoomAreaPlanDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\SiteDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\SculptingDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\StructuralDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\InterfaceAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\InterfaceUtilAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RebarDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\StructuralAnalysisDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\MassingDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\AssemblyDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\DPartDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\NumberingDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\PointCloudAccessAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\StairRampDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\AnalysisAppsDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\MaterialDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\IntfATFAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\TextEngineAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\InfrastructureDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\ATFRevitCoreAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\DBManagedServices.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitAddInUtility.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\APIInterop.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\UIFramework.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\AddInManager.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitUIAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\BuildingSystemsUIAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\DesktopMFCAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\APIUIAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitMFCAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\EssentialsUIAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\DetailUIAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\UIFrameworkServices.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\IntfIFCAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\Autodesk.UI.Themes.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\CompositionServices.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\LoggerIFCExportUIOverride.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\LoggerIFCCommon.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\LoggerIFCExporter.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\EntityFramework.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\MoreLinq.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\MoreLinq.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\Newtonsoft.Json.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\Remotion.Linq.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitAPI.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitAPIIFC.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitAPIUI.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\System.Data.SQLite.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\System.Interactive.Async.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\System.ValueTuple.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitAddInUtility.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\de\LoggerIFCExportUIOverride.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\fr\LoggerIFCExportUIOverride.resources.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\RevitLogger.csproj.AssemblyReference.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\UI\NoteWindow.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\UI\ProgressWindow.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\UI\MainWindow.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\RevitLogger_MarkupCompile.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\RevitLogger_MarkupCompile.lref
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\UI\NoteWindow.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\UI\ProgressWindow.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\UI\MainWindow.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\RevitLogger.g.resources
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\RevitLogger.Properties.Resources.resources
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\RevitLogger.UI.Prog.resources
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\RevitLogger.csproj.GenerateResource.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\RevitLogger.csproj.CoreCompileInputs.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\RevitLogger.csproj.CopyComplete
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\RevitLogger.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\obj\Debug\RevitLogger.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\LoggerProject\bin\Debug\RevitLogger.addin

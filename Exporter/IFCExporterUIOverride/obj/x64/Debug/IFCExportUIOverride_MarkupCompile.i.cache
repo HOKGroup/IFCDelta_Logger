@@ -1,0 +1,20 @@
+﻿IFCExportUIOverride
+
+
+library
+C#
+.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\IFCExporterUIOverride\obj\x64\Debug\
+BIM.IFC.Export.UI
+none
+false
+DEBUG;TRACE;IFC_OPENSOURCE
+
+11-1590736649
+
+30-670714649
+23-576983001
+COBieCompanyInfoTab.xaml;COBieProjectInfoTab.xaml;IFCAddressInformationUI.xaml;IFCClassificationUI.xaml;IFCEntityTree\EntityTree.xaml;IFCEntityTree\PredefinedTypeSelection.xaml;IFCFileHeaderInformationUI.xaml;IFCRenameExportSetup.xaml;IFCExport.xaml;IFCExporterUIWindow.xaml;IFCNewExportSetup.xaml;
+
+False
+

@@ -1,0 +1,418 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Antlr4.Runtime/4.6.6": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Antlr4.Runtime.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Antlr4.Runtime.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GeometryGymIFC/0.1.22": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.3"
+        },
+        "compile": {
+          "lib/net45/GeometryGymIFC.dll": {}
+        },
+        "runtime": {
+          "lib/net45/GeometryGymIFC.dll": {}
+        }
+      },
+      "Newtonsoft.Json/10.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "LoggerIFCExporter/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Antlr4.Runtime": "4.6.6",
+          "GeometryGymIFC": "0.1.22",
+          "Newtonsoft.Json": "10.0.3",
+          "Revit.IFC.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LoggerIFCExporter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LoggerIFCExporter.dll": {}
+        }
+      },
+      "Revit.IFC.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Revit.IFC.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Revit.IFC.Common.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "Antlr4.Runtime/4.6.6": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Antlr4.Runtime.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Antlr4.Runtime.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GeometryGymIFC/0.1.22": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.3"
+        },
+        "compile": {
+          "lib/net45/GeometryGymIFC.dll": {}
+        },
+        "runtime": {
+          "lib/net45/GeometryGymIFC.dll": {}
+        }
+      },
+      "Newtonsoft.Json/10.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "LoggerIFCExporter/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Antlr4.Runtime": "4.6.6",
+          "GeometryGymIFC": "0.1.22",
+          "Newtonsoft.Json": "10.0.3",
+          "Revit.IFC.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LoggerIFCExporter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LoggerIFCExporter.dll": {}
+        }
+      },
+      "Revit.IFC.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Revit.IFC.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Revit.IFC.Common.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "Antlr4.Runtime/4.6.6": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Antlr4.Runtime.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Antlr4.Runtime.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GeometryGymIFC/0.1.22": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.3"
+        },
+        "compile": {
+          "lib/net45/GeometryGymIFC.dll": {}
+        },
+        "runtime": {
+          "lib/net45/GeometryGymIFC.dll": {}
+        }
+      },
+      "Newtonsoft.Json/10.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "LoggerIFCExporter/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Antlr4.Runtime": "4.6.6",
+          "GeometryGymIFC": "0.1.22",
+          "Newtonsoft.Json": "10.0.3",
+          "Revit.IFC.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LoggerIFCExporter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LoggerIFCExporter.dll": {}
+        }
+      },
+      "Revit.IFC.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Revit.IFC.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Revit.IFC.Common.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "Antlr4.Runtime/4.6.6": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Antlr4.Runtime.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Antlr4.Runtime.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "GeometryGymIFC/0.1.22": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.3"
+        },
+        "compile": {
+          "lib/net45/GeometryGymIFC.dll": {}
+        },
+        "runtime": {
+          "lib/net45/GeometryGymIFC.dll": {}
+        }
+      },
+      "Newtonsoft.Json/10.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "LoggerIFCExporter/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Antlr4.Runtime": "4.6.6",
+          "GeometryGymIFC": "0.1.22",
+          "Newtonsoft.Json": "10.0.3",
+          "Revit.IFC.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LoggerIFCExporter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LoggerIFCExporter.dll": {}
+        }
+      },
+      "Revit.IFC.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Revit.IFC.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Revit.IFC.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Antlr4.Runtime/4.6.6": {
+      "sha512": "NlbRjkTCidRh1QeWvGfFPKq0sqpPZrAwGaSTV0X2jL8buZxTf9/aQ7PehFAmc7erXLUQ3YMZEVZU86aQwma2+w==",
+      "type": "package",
+      "path": "antlr4.runtime/4.6.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "antlr4.runtime.4.6.6.nupkg.sha512",
+        "antlr4.runtime.nuspec",
+        "lib/net20/Antlr4.Runtime.dll",
+        "lib/net20/Antlr4.Runtime.xml",
+        "lib/net30/Antlr4.Runtime.dll",
+        "lib/net30/Antlr4.Runtime.xml",
+        "lib/net35-cf/Antlr4.Runtime.dll",
+        "lib/net35-cf/Antlr4.Runtime.xml",
+        "lib/net35-client/Antlr4.Runtime.dll",
+        "lib/net35-client/Antlr4.Runtime.xml",
+        "lib/net40-client/Antlr4.Runtime.dll",
+        "lib/net40-client/Antlr4.Runtime.xml",
+        "lib/net45/Antlr4.Runtime.dll",
+        "lib/net45/Antlr4.Runtime.xml",
+        "lib/netstandard1.1/Antlr4.Runtime.dll",
+        "lib/netstandard1.1/Antlr4.Runtime.xml",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/Antlr4.Runtime.dll",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/Antlr4.Runtime.xml"
+      ]
+    },
+    "GeometryGymIFC/0.1.22": {
+      "sha512": "Q+Vo9AeYcmLu33P+XbriJC1xNxkn9+dEvv62buxvSL11YUBVYnWVedOJ1KaLqoT3E+XdpceqR5cGy/TXZxns2Q==",
+      "type": "package",
+      "path": "geometrygymifc/0.1.22",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "geometrygymifc.0.1.22.nupkg.sha512",
+        "geometrygymifc.nuspec",
+        "lib/net45/GeometryGymIFC.dll"
+      ]
+    },
+    "Newtonsoft.Json/10.0.3": {
+      "sha512": "hSXaFmh7hNCuEoC4XNY5DrRkLDzYHqPx/Ik23R4J86Z7PE/Y6YidhG602dFVdLBRSdG6xp9NabH3dXpcoxWvww==",
+      "type": "package",
+      "path": "newtonsoft.json/10.0.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.10.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "tools/install.ps1"
+      ]
+    },
+    "LoggerIFCExporter/1.0.0": {
+      "type": "project",
+      "path": "../Revit.IFC.Export/Revit.IFC.Export.csproj",
+      "msbuildProject": "../Revit.IFC.Export/Revit.IFC.Export.csproj"
+    },
+    "Revit.IFC.Common/1.0.0": {
+      "type": "project",
+      "path": "../Revit.IFC.Common/Revit.IFC.Common.csproj",
+      "msbuildProject": "../Revit.IFC.Common/Revit.IFC.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Antlr4.Runtime >= 4.6.6",
+      "LoggerIFCExporter >= 1.0.0",
+      "Revit.IFC.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\h\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Work\\Companies\\Fiverr\\Revit Logger V5.1\\Exporter\\RevitIFCTools\\RevitIFCTools.csproj",
+      "projectName": "RevitIFCTools",
+      "projectPath": "E:\\Work\\Companies\\Fiverr\\Revit Logger V5.1\\Exporter\\RevitIFCTools\\RevitIFCTools.csproj",
+      "packagesPath": "C:\\Users\\h\\.nuget\\packages\\",
+      "outputPath": "E:\\Work\\Companies\\Fiverr\\Revit Logger V5.1\\Exporter\\RevitIFCTools\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WinUI\\19.3.0.43\\NuGetPackages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {
+            "E:\\Work\\Companies\\Fiverr\\Revit Logger V5.1\\Exporter\\Revit.IFC.Common\\Revit.IFC.Common.csproj": {
+              "projectPath": "E:\\Work\\Companies\\Fiverr\\Revit Logger V5.1\\Exporter\\Revit.IFC.Common\\Revit.IFC.Common.csproj"
+            },
+            "E:\\Work\\Companies\\Fiverr\\Revit Logger V5.1\\Exporter\\Revit.IFC.Export\\Revit.IFC.Export.csproj": {
+              "projectPath": "E:\\Work\\Companies\\Fiverr\\Revit Logger V5.1\\Exporter\\Revit.IFC.Export\\Revit.IFC.Export.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "Antlr4.Runtime": {
+            "target": "Package",
+            "version": "[4.6.6, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

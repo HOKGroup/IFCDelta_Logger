@@ -1,0 +1,174 @@
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IFC2X2_ADD1.exp
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IFC2X2_ADD1.xsd
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IFC2X3_TC1.exp
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IFC2X3_TC1.xsd
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IFC4.exp
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IFC4.xsd
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IFCCertifiedEntitiesAndPSets.json
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IFC Shared Parameters-RevitIFCBuiltIn-Type.txt
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IFC Shared Parameters-RevitIFCBuiltIn-Type_ALL.txt
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IFC Shared Parameters-RevitIFCBuiltIn.txt
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IFC Shared Parameters-RevitIFCBuiltIn_ALL.txt
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\RevitIFCTools.exe.config
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\RevitIFCTools.exe
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\RevitIFCTools.pdb
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\Antlr4.Runtime.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\GeometryGymIFC.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\Newtonsoft.Json.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\LoggerIFCCommon.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\LoggerIFCExporter.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\RevitAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\RevitAPIIFC.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\AdpSDKCSharpWrapper.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\AdskRcManaged.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\RevitAPIFoundation.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\RevitDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\RevitDBCoreAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\PersistenceDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\UtilityAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\APIDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\GraphicsAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\ElementGroupDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\EssentialsDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\GeomUtilAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\FamilyDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\DetailDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\CurtainGridFamilyDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\ArrayElemsDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\EnergyAnalysisDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\BuildingSystemsDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\HostObjDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\RoomAreaPlanDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\SiteDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\SculptingDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\StructuralDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\InterfaceAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\InterfaceUtilAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\RebarDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\StructuralAnalysisDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\MassingDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\AssemblyDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\DPartDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\NumberingDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\PointCloudAccessAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\StairRampDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\AnalysisAppsDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\MaterialDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IntfATFAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\TextEngineAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\InfrastructureDBAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\ATFRevitCoreAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\DBManagedServices.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\IntfIFCAPI.dll
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\LoggerIFCCommon.pdb
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\LoggerIFCExporter.pdb
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\RevitAPI.xml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\bin\Debugx64\RevitAPIIFC.xml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\RevitIFCTools.csproj.AssemblyReference.cache
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\RevitIFCTools.csproj.SuggestedBindingRedirects.cache
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\RevitIFCTools.exe.config
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\IFCEntityListWin.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\GeneratePsetDefWin.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\MainWindow.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\ParameterExpr\ExprTester.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\App.g.cs
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\RevitIFCTools_MarkupCompile.cache
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\RevitIFCTools_MarkupCompile.lref
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\IFCEntityListWin.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\GeneratePsetDefWin.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\MainWindow.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\ParameterExpr\ExprTester.baml
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\RevitIFCTools.g.resources
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\RevitIFCTools.Properties.Resources.resources
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\RevitIFCTools.csproj.GenerateResource.cache
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\RevitIFCTools.csproj.CoreCompileInputs.cache
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\RevitIFCTools.csproj.CopyComplete
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\RevitIFCTools.exe
+D:\freelance\Revit Api\revit-ifc-master\2023\Source\RevitIFCTools\obj\x64\Debug\RevitIFCTools.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IFC2X2_ADD1.exp
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IFC2X2_ADD1.xsd
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IFC2X3_TC1.exp
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IFC2X3_TC1.xsd
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IFC4.exp
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IFC4.xsd
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IFCCertifiedEntitiesAndPSets.json
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IFC Shared Parameters-RevitIFCBuiltIn-Type.txt
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IFC Shared Parameters-RevitIFCBuiltIn-Type_ALL.txt
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IFC Shared Parameters-RevitIFCBuiltIn.txt
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IFC Shared Parameters-RevitIFCBuiltIn_ALL.txt
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\RevitIFCTools.exe.config
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\RevitIFCTools.exe
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\RevitIFCTools.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\Antlr4.Runtime.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\GeometryGymIFC.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\Newtonsoft.Json.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\LoggerIFCCommon.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\LoggerIFCExporter.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\RevitAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\RevitAPIIFC.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\AdpSDKCSharpWrapper.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\AdskRcManaged.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\RevitAPIFoundation.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\RevitDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\RevitDBCoreAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\PersistenceDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\UtilityAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\APIDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\GraphicsAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\ElementGroupDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\EssentialsDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\GeomUtilAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\FamilyDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\DetailDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\CurtainGridFamilyDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\ArrayElemsDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\EnergyAnalysisDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\BuildingSystemsDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\HostObjDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\RoomAreaPlanDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\SiteDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\SculptingDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\StructuralDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\InterfaceAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\InterfaceUtilAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\RebarDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\StructuralAnalysisDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\MassingDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\AssemblyDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\DPartDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\NumberingDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\PointCloudAccessAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\StairRampDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\AnalysisAppsDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\MaterialDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IntfATFAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\TextEngineAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\InfrastructureDBAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\ATFRevitCoreAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\DBManagedServices.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\IntfIFCAPI.dll
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\LoggerIFCCommon.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\LoggerIFCExporter.pdb
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\RevitAPI.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\bin\Debugx64\RevitAPIIFC.xml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\RevitIFCTools.csproj.AssemblyReference.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\RevitIFCTools.csproj.SuggestedBindingRedirects.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\RevitIFCTools.exe.config
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\IFCEntityListWin.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\GeneratePsetDefWin.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\MainWindow.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\ParameterExpr\ExprTester.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\App.g.cs
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\RevitIFCTools_MarkupCompile.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\RevitIFCTools_MarkupCompile.lref
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\IFCEntityListWin.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\GeneratePsetDefWin.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\MainWindow.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\ParameterExpr\ExprTester.baml
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\RevitIFCTools.g.resources
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\RevitIFCTools.Properties.Resources.resources
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\RevitIFCTools.csproj.GenerateResource.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\RevitIFCTools.csproj.CoreCompileInputs.cache
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\RevitIFCTools.csproj.CopyComplete
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\RevitIFCTools.exe
+E:\Work\Companies\Fiverr\Revit Logger V5.1\Exporter\RevitIFCTools\obj\x64\Debug\RevitIFCTools.pdb

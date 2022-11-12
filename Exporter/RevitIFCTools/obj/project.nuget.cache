@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ekzLuIOffkdlCKAZ40vHYlC7hxsaOVdHCIZ9LNW9JjkCo5GOHa+Hi58Jrg0h2zC3Zar9Il2m6g+3DIM3DH8bw==",
+  "success": true,
+  "projectFilePath": "E:\\Work\\Companies\\Fiverr\\Revit Logger V5.1\\Exporter\\RevitIFCTools\\RevitIFCTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\h\\.nuget\\packages\\antlr4.runtime\\4.6.6\\antlr4.runtime.4.6.6.nupkg.sha512",
+    "C:\\Users\\h\\.nuget\\packages\\geometrygymifc\\0.1.22\\geometrygymifc.0.1.22.nupkg.sha512",
+    "C:\\Users\\h\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

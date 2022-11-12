@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="DBApplication">
+    <Name>BIM IFC Exporter</Name>
+    <Assembly>Logger\LoggerIFCExporter.dll</Assembly>
+    <ClientId>3F5A53EF-BA10-4782-A9C4-4CB32C69FC40</ClientId>
+    <FullClassName>Revit.IFC.Export.Exporter.ExporterApplication</FullClassName>
+	<VendorId>IFCX</VendorId>
+	<VendorDescription>IFC Exporter for Revit, http://sourceforge.net/projects/ifcexporter/</VendorDescription>
+  </AddIn>
+
+</RevitAddIns>
